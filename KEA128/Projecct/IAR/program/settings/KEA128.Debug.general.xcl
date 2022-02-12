@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\lingwen_yang\OneDrive\smart_car\smart_car\KEA128\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin="E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\IAR\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader="E:\IAR\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
